@@ -1,0 +1,107 @@
+{
+  "Salut" : "Hello",
+  "Réinitialisation du mot de passe" : "Reset Password Notification",
+  "Vous recevez cet email car nous avons reçu une demande de réinitialisation du mot de passe pour votre compte." : "You are receiving this email because we received a password reset request for your account.",
+  "Réinitialiser le mot de passe" : "Reset Password",
+  "Ce lien de réinitialisation de mot de passe expirera dans :count minutes." : "This password reset link will expire in :count minutes",
+  "Si vous n'avez pas demandé de réinitialisation de mot de passe, aucune autre action n'est requise." : "If you did not request a password reset, no further action is required.",
+  "Cordialement" : "Regards",
+  "Si vous ne parvenez pas à cliquer sur le bouton \":actionText\" copiez et collez l’URL située dans votre navigateur Web : [:actionURL](:actionURL)" : "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser: [:actionURL](:actionURL)",
+
+  "Bienvenue sur :name" : "Welcome to :name",
+  "Vous recevez cet email car vous êtes actuellement inscrit sur :name." : "You are receiving this email because you are currently registered on :name.",
+  "Voici les identifiants de votre compte que vous ne devez communiquer à personne.." : "Here are the identifiers of your account that you do not have to communicate to anyone.",
+  "Adresse électronique : :email" : "E-mail adress : :email",
+  "Mot de passe : :password" : "Password : :password",
+  "Connexion" : "Sign in",
+
+  "All rights reserved." : "D-XPERTS",
+
+  "Bienvenue :name" : "Welcome :name",
+  "Nous vous informons que votre inscription s'est déroulé avec succès." : "We would like to inform you that your registration has been completed successfully.",
+
+
+  "Nous n'avons pas trouvé un utilisateur avec cette adresse e-mail.": "We could not find a user with this email address.",
+  "Nous vous avons envoyé un lien de réinitialisation de mot de passe par email! Merci de consulter vos emails.": "We have sent you a password reset link by email! Please check your emails.",
+  "Échec de l'envoi du lien de réinitialisation du mot de passe, veuillez réessayer.": "Failed to send password reset link, please try again.",
+
+  "Nous n'avons pas trouvé un client avec cette adresse e-mail.": "We could not find a customer with that email address.",
+  "Nous vous avons envoyé par e-mail le lien de réinitialisation de votre mot de passe ! Veuillez vérifier votre courriel.": "We have e-mailed your password reset link! Please check your email.",
+
+
+  "Désolé, des erreurs se sont produites lors du traitement.": "Sorry, some errors occurred when processing.",
+  "Déconnexion réussie": "Successfully logged out",
+
+
+  "Ce jeton de réinitialisation de mot de passe n'est plus valide.": "This password reset token is invalid.",
+  "Ce jeton de réinitialisation de mot de passe a expiré.":"This password reset token has expired.",
+  "Le mot de passe a été modifié avec succès.": "Password successfully changed.",
+  "Echec de changement du mot de passe, veuillez réessayer.": "Failed to change password, please try again.",
+
+
+  "La civilité a été créée avec succès.": "The civility has been successfully created.",
+  "La civilité a été modifiée avec succès.": "The civility has been successfully changed.",
+  "L'opération s'est terminée avec succès.": "The operation has been successfully completed.",
+  "Suppression impossible, car cette donnée est utilisée dans une autre relation.": "Unable to delete, because this data is used in another relationship.",
+  "Désolé, des erreurs se sont produites lors de la suppression.": "Sorry, some errors occured when deleting",
+
+
+  "Les configurations ont été enregistrées avec succès.": "The configurations have been successfully saved.",
+
+
+  "La langue a été créée avec succès.": "The language has been successfully created.",
+  "La langue a été modifiée avec succès.": "The language has been successfully changed.",
+
+
+  "Le statut d'adhésion a été créé avec succès.": "The membership status has been successfully created.",
+  "Le statut d'adhésion a été modifié avec succès.": "The membership status has been successfully changed.",
+
+
+  "Le droit a été créé avec succès.": "The right has been successfully created.",
+  "Le droit a été modifié avec succès.": "The right has been successfully changed.",
+
+
+  "L'utilisateur a été créé avec succès.": "The user has been successfully created.",
+  "L'utilisateur a été modifié avec succès.": "The user has been successfully changed.",
+
+
+  "Le client a été créé avec succès.": "The customer has been successfully created",
+  "Le client a été modifié avec succès.": "The customer has been successfully changed.",
+
+
+  "La note a été créée avec succès.": "The rating has been successfully created.",
+  "La note a été modifiée avec succès.": "The reating has been successfully changed.",
+
+
+  "L'espace a été créé avec succès.": "The space has been successfully created.",
+  "L'espace a été modifié avec succès.": "The space has been successfully modified.",
+
+
+  "La réservation a été créée avec succès.": "The reservation has been successfully created.",
+  "La réservation a été modifiée avec succès.": "The reservation has been successfully changed.",
+
+
+  "L'évènement a été créé avec succès.": "The event has been successfully created.",
+  "L'évènement a été modifié avec succès.": "The event has been successfully changed.",
+
+
+  "La notification a été ajoutée aux favoris.": "The notification has been added to the favourites.",
+  "La notification a été supprimée des favoris.": "The notification has been removed from favorites.",
+
+
+  "La commande a été créée avec succès.": "The order has been successfully created.",
+  "La commande a été modifiée avec succès.": "The order has been successfully changed.",
+
+
+  "Le menu a été créé avec succès.": "The menu has been successfully created.",
+  "Le menu a été modifié avec succès.": "The menu has been successfully changed.",
+
+
+  "Le restaurant a été créé avec succès.": "The restaurant has been successfully created.",
+  "Le restaurant a été modifié avec succès.": "The restaurant has been successfully changed.",
+
+
+  "La commande de référence :reference a été créée avec succès.": "The reference order :reference has been successfully created.",
+  "La commande de référence :reference a été enregistrée avec succès.": "The reference order :reference has been successfully saved."
+
+ }
